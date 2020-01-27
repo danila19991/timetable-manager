@@ -1,2 +1,2 @@
 # timetable-manager
-Some application for planning your tasks.
+Application for planning your tasks and instruments for analysing your life.
